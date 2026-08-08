@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmed-portfolio-abdoun.vercel.app/sitemap.xml
